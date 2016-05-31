@@ -1,12 +1,12 @@
 # h2n 
 
-This public repository is a place holder for code awaiting copyright, licensing, and public use determination from the original publisher, *O'Reilly Media, Inc*.
+This public repository is a place holder for code for the Perl 5 program *h2n* awaiting copyright, licensing, and public use determination from the original publisher, *O'Reilly Media, Inc*.
 
-I sent an e-mail to them per instructions on page xix in the 5th edition of their book, *DNS and BIND*, by Cricket Liu and Paul Albitz.  The e-mail was addressed to <permissions@oreilly.com> and was sent at 2016-05-31, 0634 CDT.  In it I stated the following:
+I sent an e-mail to them per instructions on page xix in the 5th edition of their book, *DNS and BIND*, by Cricket Liu and Paul Albitz.  That book contains references to, discussion of, code from, and a link to the program *h2n*.  The e-mail was addressed to <permissions@oreilly.com> and was sent at 2016-05-31, 0634 CDT.  In it I stated the following:
 
 > Dear Sir or Madam:
 >
-> I would like to determine if all or any of the following uses of the subject program are permitted:
+> I would like to determine if all or any of the following uses of the subject program [*h2n] are permitted:
 >
 > 1.  Place copies of the original code obtained from your ftp site into a public repository on <https://github.com>.
 >
