@@ -6,7 +6,7 @@ I sent an e-mail to them per instructions on page xix in the 5th edition of thei
 
 > Dear Sir or Madam:
 >
-> I would like to determine if all or any of the following uses of the subject program [*h2n] are permitted:
+> I would like to determine if all or any of the following uses of the subject program [*h2n*+] are permitted:
 >
 > 1.  Place copies of the original code obtained from your ftp site into a public repository on <https://github.com>.
 >
