@@ -35,3 +35,5 @@ I sent an e-mail to them per instructions on page xix in the 5th edition of thei
 > -Tom
 >
 > Thomas M. Browder, Jr.
+
+This site will be updated as more information becomes available.
